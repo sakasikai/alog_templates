@@ -31,4 +31,5 @@
 *.out
 *.app
 
+/**/.DB_Store
 .DB_Store
